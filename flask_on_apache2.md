@@ -1,4 +1,4 @@
-1  安装apache2 libapache2-mod-wsgi  并
+1  安装apache2 libapache2-mod-wsgi | libapache2-mod-wsgi-py3  并
 
 ```bash
 sudo a2enmod wsgi
